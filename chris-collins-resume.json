@@ -1,0 +1,360 @@
+{
+    "basics": {
+        "name": "Chris Collins",
+        "label": "Software Engineer",
+        "picture": "http://www.gravatar.com/avatar/3a4cfde776fb9b87ec859b270f7dd145s=100&amp;r=pg&amp;d=mm",
+        "email": "slackfarmer@gmail.com",
+        "phone": "(602) 628-6122",
+        "website": "http://chriscollins.io",
+        "summary": "A passionate Ingress Agent, who joined the Resistance in July of 2014 and is currently at level 15. Anomaly participation includes Phoenix, Las Vegas, and Portland in 2015. Of notable mention, is participation in a 16 layer BAF that covered the entirety of Las Vegas in 2015 during the Defcon Security conference.",
+        "location": {
+            "address": "4616 W Laurel Ln",
+            "postalCode": "AZ 85304",
+            "city": "Glendale",
+            "countryCode": "US",
+            "region": "Arizona"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "slackfarmer",
+                "url": "https://twitter.com/slackfarmer"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "humanwholesale@hotmail.com",
+                "url": "https://www.linkedin.com/pub/christopher-collins/4/26a/96"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Shutterfly.com",
+            "position": "Senior Staff Lab Engineer",
+            "website": "http://www.shutterfly.com",
+            "startDate": "2008-06-15",
+            "endDate": "2015-10-31",
+            "summary": "Sharing Life's Joy. Personalized photo gifts and memory based products.",
+            "highlights": [
+                "Next generation template imposition system that positions Shutterfly with an unfair advantage in the personalized photo gifts sector. Designed and deployed the first micro-services based system within the organization. The system was designed to be language agnostic(Java, Groovy, Grails, Python, NodeJS). TThe services were designed using REST(Jersey). Validation used JSON schemas(JsonSchema2Pojo). Swagger was used for REST documentation. Docker was used for image tagging and containerization. Service discovert used Consul. Monitoring used LogStash and Grafana. Assets, Schemas and Templates were stored in the cloud via AWS/S3.",
+                "Heavily involved in the Manufacturing side of the company. Automation based designs that guided products through the manufacturing process.",
+                "Implemented many reporting solutions in the Lab Engineering organization. Reporting on things like employee performance, product metrics and shipping metrics.",
+                "Responsibilities included imposition and finishing workflows.",
+                "Designed data collection systems for commercial printing presses, using Groovy scripts and Redis. Created a reporting dashboard with Grails. Watchdogs and scheduled reports were created by using the Quartz API. I created many Grails plugins for shared domain schemas, large excel exporting and quartz scheduling.",
+                "Significantly improved deployments by automating legacy practices and migrating to new build systems such as Gradle.",
+                "Converted HP Indigo presses over to PPML templates, which allowed Shutterfly to migrate away from the legacy JLT templating systems."
+            ]
+        },
+        {
+            "company": "Cielo Industries",
+            "position": "Systems Architect/Development Lead/Founder",
+            "website": "",
+            "startDate": "2004-06-01",
+            "endDate": "2008-05-15",
+            "summary": "Wireless Dispatching Software for service based industries. Responsible for MDA design implementation of templates for rapid application development.",
+            "highlights": [
+                "Designed and implemented a service dispatching system for Scottsdale Air. The software utilized CDPD, CDMA and EVDO wireless devices and GPS devices. Provided GPS tracking, invoicing, instant messaging, and dispatching using a J2SE Swing application, which performed remote database replication through MySQL, Hibernate, JDBC, JMS, and unreliable wireless connections.",
+                "Designed and implemented an easy to use web interface for dispatchers, service techs, and managers using JSP, SSL, Java Servlets, Jetty, Tomcat, Struts, JNDI, DHTML (JavaScript, CSS, HTML), and AJAX.",
+                "Designed and implemented a J2EE enterprise application to provide functionality for all system using JBoss, RMI, Hibernate, JDBC, MySQL, JNDI, JMX, JCA, EJB, and MDB. The application was designed using model driven development approach using AndroMDA, MagicDraw, and several in-house utilities."
+            ]
+        },
+        {
+            "company": "Unicon",
+            "position": "Java Developer",
+            "website": "https://www.unicon.net/",
+            "startDate": "2003-02-01",
+            "endDate": "2005-06-01",
+            "summary": "Education Software technologies",
+            "highlights": [
+                "Developed educational software for for the Cisco Learning Institute utilized mainly by corporations and K-12.",
+                "Responsibilities included: maintenance of existing functionality, implementing new functionality, production support needs in a Windows and Linux desktop environment, and performance testing of new releases.",
+                "Tools and APIs used to accomplish CLI’s needs are as follows:  JSE/JEE SDK, JavaScript, JDBC, XML/XSL, Macromedia’s ActionScript, Mercury Interactive’s LoadRunner testing suite, Jserv, and UML"
+            ]
+        },
+        {
+            "company": "Self Employed",
+            "position": "Software Consultant",
+            "website": "",
+            "startDate": "2001-06-01",
+            "endDate": "2001-09-28",
+            "summary": "Systems Work For Local ISP",
+            "highlights": [
+                "Logger and data analysis tracking system for calling card telephony switches written in C++."
+            ]
+        },
+        {
+            "company": "The Source Network",
+            "position": "Senior Software Developer",
+            "website": "http://www.tsnsw.com",
+            "startDate": "01-01-2000",
+            "endDate": "12-31-2001",
+            "summary": "Natural Language Based Search Engine",
+            "highlights": [
+                "Designed and developed a cross platform, multi-threaded Web Spider that had the ability to spider any protocol and data content.  The application ran on Windows 2000/NT/95/98 as well as Linux.",
+                "Designed and installed search engine portals for use by clients of The Source Network.  The search engine portal was written in C++ and utilized a three-tier architecture, running on Linux and utilizing Oracle Databases. Prototypes were designed with Java."
+            ]
+        },
+        {
+            "company": "Alliance Consulting",
+            "position": "Software Consultant",
+            "website": "http://www.alliancecg.com/",
+            "startDate": "1999-01-01",
+            "endDate": "1999-12-31",
+            "summary": "American Express Corporate Business Travel Software",
+            "highlights": [
+                "Y2K consultant for American Express travel technologies",
+                "Ported the travel applications from IBM’s AIX 4.1.5 to Sun’s Solaris 2.6.",
+                "Worked on speech recognition project for American Express Travel utilizing proprietary hardware from Nuance and Paraphonics.  This system ran on Solaris and the software was written in C."
+            ]
+        },
+        {
+            "company": "Promark One",
+            "position": "Database Programmer",
+            "website": "",
+            "startDate": "1998-01-01",
+            "endDate": "1998-12-01",
+            "summary": "Telemarketing based company",
+            "highlights": [
+                "Authored telemarketing and data-mining software in C++, utilizing CSQL in  Solaris environment (2.5.1). Information was persisted in an Informix Database.",
+                "Designed and implemented a new methodology of software development for the department which reduced development time from 3 weeks to 2 days on a per customer basis.",
+                "Developed sales-reporting software in C++ which helped to streamline both the accounting and marketing departments in the company."
+            ]
+        },
+        {
+            "company": "Telesoft",
+            "position": "Database Programmer",
+            "website": "http://www.telesoft.com/",
+            "startDate": "1997-01-01",
+            "endDate": "1997-12-01",
+            "summary": "Backend warehouse solutions that tracked inventory, invoicing, shipping and purchasing for small/medium/large businesses.",
+            "highlights": [
+                "Developed Informix 4GL applications in UNIX SVR3 and AIX environments. Performed many DBA tasks on the Informix Databases, from installation to maintenance.",
+                "Worked closely with clients to develop specifications and write custom modules as part of of the DCS(Distributed Control System) software.",
+                "Implemented data-scrubbing routines using Sed & Awk in AIX for the import of client data into the DCS database."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Wheel Chair Labs",
+            "position": "Fabrication and Repairs",
+            "website": "http://wheelchairlabs.org/",
+            "startDate": "2008-02-01",
+            "endDate": "2015-10-15",
+            "summary": "Enhancing lives with the gift of electronic wheelchairs and scooters",
+            "highlights": [
+                "Our group helps people who need electric mobility solutions, by gifting and raising battery funds for people who have limited means.",
+                "Metal fabrication skills for custom mobility solutions",
+                "Electric vehicle systems diagnostic repairs"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Glendale Community College",
+            "area": "Information Technology",
+            "studyType": "Bachelor",
+            "startDate": "1996-09-29",
+            "endDate": "1997-05-25",
+            "gpa": "4.0",
+            "courses": [
+                "Introduction to Unix",
+                "Introduction to C/C++"
+            ]
+        },
+        {
+            "institution": "No Fluff, Just Stuff",
+            "area": "Java VM Related",
+            "studyType": "Heads Up",
+            "startDate": "1996-09-29",
+            "endDate": "1997-05-25",
+            "gpa": "",
+            "courses": [
+                "Grails",
+                "",
+                "Spring",
+                "Rules Engines",
+                "Android"
+            ]
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Java Development",
+            "level": "Master",
+            "keywords": [
+                "J2EE",
+                "Spring",
+                "Spring-Boot",
+                "Groovy",
+                "Grails",
+                "Scala",
+                "Struts",
+                "JSP",
+                "RMI",
+                "JMS",
+                "JDMC",
+                "Jersey(REST)",
+                "Jackson(JSON Schema)",
+                "Hibernate"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "level": "Expert",
+            "keywords": [
+                "JavaScript",
+                "CSS",
+                "Node",
+                "Grails",
+                "AJAX",
+                "JSON",
+                "LUA",
+                "XML"
+            ]
+        },
+        {
+            "name": "Testing",
+            "level": "Expert",
+            "keywords": [
+                "Spock(TDD/BBD)",
+                "JUnit",
+                "JMock",
+                "Mockito"
+            ]
+        },
+        {
+            "name": "C/C++ Development",
+            "level": "Rusty",
+            "keywords": [
+                "Visual C++ and MFC(Microsoft)",
+                "GCC/GDB"
+            ]
+        },
+        {
+            "name": "Databases",
+            "level": "Master",
+            "keywords": [
+                "Mysql",
+                "Oracle",
+                "Sybase",
+                "Informix",
+                "DB2",
+                "Redis"
+            ]
+        },
+        {
+            "name": "Continuous Integration",
+            "level": "Master",
+            "keywords": [
+                "Jenkins",
+                "Github",
+                "Artifactory",
+                "Docker",
+                "Docker-Compose",
+                "Maven",
+                "Gradle",
+                "Ant",
+                "Ivy",
+                "Slack",
+                "Swagger"
+            ]
+        },
+        {
+            "name": "Source Code Revision",
+            "level": "Master",
+            "keywords": [
+                "CVS",
+                "Perforce",
+                "Git",
+                "SVN"
+            ]
+        },
+        {
+            "name": "Unix Systems",
+            "level": "Master",
+            "keywords": [
+                "SunOs/Solaris",
+                "AIX",
+                "Debian/Ubuntu",
+                "Redhat/Centos",
+                "vi",
+                "Docker",
+                "Docker-Compose",
+                "Consul(Service Discovery)",
+                "bash",
+                "csh",
+                "sh",
+                "Sed/Awk",
+                "TCL/TK"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Burning Man",
+            "keywords": [
+                "Greathouse Labs",
+                "Lord Flex",
+                "Radio Electra",
+                "Flame Effects",
+                "Wheel Chairs",
+                "Mutant Vehicles"
+            ]
+        },
+        {
+            "name": "Software",
+            "keywords": [
+                "Ingress(Augmented GPS/Based Game)",
+                "Adobe Creative Suites",
+                "Solidworks",
+                "Block-chain"
+            ]
+        },
+        {
+            "name": "Electronics",
+            "keywords": [
+                "ESP8266",
+                "Robots",
+                "Arduino",
+                "IOT(Internet of Things)",
+                "SparkCore",
+                "RaspberryPi"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Cyan Banister",
+            "reference": "cyan@banister.com"
+        },
+        {
+            "name": "Andrew Kornuta",
+            "reference": "andrew.kornuta@gmail.com"
+        },
+        {
+            "name": "Kasey Kirkham",
+            "reference": "kaseyk@gmail.com"
+        },
+        {
+            "name": "Lucas Nealan",
+            "reference": "lucas@sizzo.org"
+        },
+        {
+            "name": "Ernest Rider",
+            "reference": "ernest.rider@gmail.com"
+        },
+        {
+            "name": "Lance Greathouse",
+            "reference": "lance@greathouselabs.com"
+        }
+    ]
+}
