@@ -6,7 +6,11 @@
         "email": "slackfarmer@gmail.com",
         "phone": "(602) 628-6122",
         "website": "http://chriscollins.io",
+<<<<<<< HEAD
         "summary": "A highly accomplished, full stack software engineer. First drawn into computing at the age of 13 by the Arizona BBS community. Programming study began in high school and college, introducing Turbo Pascal, C++, and Unix. Learning has continued through professional endevours, personal pursuits, and deeply dedicated self study. Industry experience includes Banking, Manufacturing, Telemarketing, Startups, and E-Learning institutions. A passionate Ingress Agent, who joined the Resistance in July of 2014 and is currently at level 15. Anomaly participation includes Phoenix, Las Vegas, and Portland in 2015. Of notable mention, is participation in a 16 layer BAF that covered the entirety of Las Vegas in 2015 during the Defcon Security conference.",
+=======
+        "summary": "A passionate Ingress Agent, who joined the Resistance in July of 2014 and is currently at level 15. Anomaly participation includes Phoenix, Las Vegas, and Portland in 2015. Of notable mention, is participation in a 16 layer BAF that covered the entirety of Las Vegas in 2015 during the Defcon Security conference.",
+>>>>>>> 93a3dd09f83ec503a3d47037c29ddcf16f4b09b6
         "location": {
             "address": "4616 W Laurel Ln",
             "postalCode": "AZ 85304",
